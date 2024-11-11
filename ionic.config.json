@@ -1,0 +1,7 @@
+{
+  "name": "git-colaborativo-01",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
